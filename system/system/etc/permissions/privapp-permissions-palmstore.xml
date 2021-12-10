@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Transsion Top Secret-->
+<permissions>
+
+<privapp-permissions package="com.transsnet.store">
+	<permission name="android.permission.INSTALL_PACKAGES"/>
+</privapp-permissions>
+
+</permissions>

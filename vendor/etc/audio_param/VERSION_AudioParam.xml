@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioParam version="1.0">
+  <ParamTree>
+	<Param path="VER_PLATFORM" param_id="MT6761">
+	<Param path="VER_PROJECT" param_id="INFINIX_X612B">
+	<Param path="VER_VERSION" param_id="V1.90">
+	<Param path="VER_DATE" param_id="20201104">
+  </ParamTree>
+</AudioParam>

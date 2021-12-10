@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  field  :    value
+ chanRange: 1)all: all channel, 50-60:enable 50 to 60 channel
+ duration:  alert time when incoming cb. 10500 means alert 10500 millosecond
+ vibrate: true/false  vibrate or not when incoming cb
+ showmenu: true/false means that show channel menu or not
+ mode: true/flase :means that alert or not in silent mode
+-->
+<cbsconfitems version="1">
+    <!--Dubai-->
+    <cbsconfitem mcc="424" mnc="02" chanRange="0-4379;4381-4392;4394-65534" duration="10500" tonename ="" vibrate="true" showmenu="false" mode="true"/>
+    <cbsconfitem mcc="424" mnc="03" chanRange="0-4379;4381-4392;4394-65534" duration="10500" tonename ="" vibrate="true" showmenu="false" mode="true"/>
+    <!--Oman-->
+    <cbsconfitem mcc="422" mnc="02" chanRange="all" duration="10500" tonename ="" vibrate="true" showmenu="false" mode="true"/>
+    <cbsconfitem mcc="422" mnc="03" chanRange="all" duration="10500" tonename ="" vibrate="true" showmenu="false" mode="true"/>
+    <!--Qatar-->
+    <cbsconfitem mcc="427" mnc="01" chanRange="all" duration="10500" tonename ="" vibrate="true" showmenu="false" mode="true"/>
+    <cbsconfitem mcc="427" mnc="02" chanRange="all" duration="10500" tonename ="" vibrate="true" showmenu="false" mode="true"/>
+    <!--Saudi-->
+    <cbsconfitem mcc="420" mnc="01" chanRange="all" duration="10500" tonename ="" vibrate="true" showmenu="true" mode="true"/>
+    <cbsconfitem mcc="420" mnc="03" chanRange="all" duration="10500" tonename ="" vibrate="true" showmenu="true" mode="true"/>
+    <cbsconfitem mcc="420" mnc="04" chanRange="all" duration="10500" tonename ="" vibrate="true" showmenu="true" mode="true"/>
+</cbsconfitems>

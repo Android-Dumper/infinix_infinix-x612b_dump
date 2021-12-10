@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Transsion Top Secret-->
+<permissions>
+
+<privapp-permissions package="net.bat.store">
+	<permission name="android.permission.INSTALL_PACKAGES"/>
+	<permission name="android.permission.PACKAGE_USAGE_STATS"/>
+</privapp-permissions>
+
+</permissions>

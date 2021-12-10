@@ -1,0 +1,11 @@
+service bootanim /system/bin/bootanimation
+    class core animation
+    user graphics
+    group graphics audio
+    disabled
+    oneshot
+    writepid /dev/stune/top-app/tasks
+#add by zhangjunnan 20200629 for shutdown animation begin
+on property:persist.sys.boot_start=1
+     start bootanim
+#add by zhangjunnan 20200629 for shutdown animation end

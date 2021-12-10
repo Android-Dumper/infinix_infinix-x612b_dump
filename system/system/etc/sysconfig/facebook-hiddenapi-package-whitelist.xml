@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Transsion Top Secret-->
+<config>
+    <hidden-api-whitelisted-app package="com.facebook.appmanager"/>
+    <hidden-api-whitelisted-app package="com.facebook.system"/>
+    <hidden-api-whitelisted-app package="com.facebook.services"/>
+</config>

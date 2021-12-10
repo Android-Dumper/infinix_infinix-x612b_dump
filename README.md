@@ -1,0 +1,14 @@
+# X612B-GL-user 10 QP1A.190711.020 BC-GL-210115V023 release-keys
+- manufacturer: 
+- platform: mt6761
+- codename: Infinix-X612B
+- flavor: X612B-GL-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: BC-GL-210115V023
+- tags: release-keys
+- fingerprint: Infinix/X612B-GL/Infinix-X612B:10/QP1A.190711.020/BC-GL-210115V023:user/release-keys
+- is_ab: false
+- brand: Infinix
+- branch: X612B-GL-user-10-QP1A.190711.020-BC-GL-210115V023-release-keys
+- repo: infinix_infinix-x612b_dump
